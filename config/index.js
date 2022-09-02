@@ -4,13 +4,13 @@ export const config = {
      */
 
     // 公众号APP_ID
-    APP_ID: "",
+    APP_ID: "wxde1cacdea1e9760f",
 
     // 公众号APP_SECRET
-    APP_SECRET: "",
+    APP_SECRET: "f3135ea6b76cfa5ea905b696e61731f9",
 
     // 模板消息id
-    TEMPLATE_ID: "",
+    TEMPLATE_ID: "ijgMGemYyAx-dMeDRRPftl0lRNo2b6zR49t8ipuWOgg",
 
     // 回调消息模板id, 用来看自己有没有发送成功的那个模板
     CALLBACK_TEMPLATE_ID: "",
@@ -24,14 +24,11 @@ export const config = {
      * ]
      */
     USERS: [
-      {name: '老婆0', id: "1hxOO6VskYv0Kuf-y你懂的,填错狗头打烂VRMpuXhk"}, 
-      {name: '老婆1', id: "2hxOO6VskYv0Kuf-y你懂的,填错狗头打烂RMpuXhk"}, 
-      {name: '老婆2', id: "3hxOO6VskYv0Kuf-yw你懂的,填错狗头打烂2RMpuXhk"}, 
-      {name: '老婆3', id: "4hxOO6VskYv0Kuf-ywI你懂的,填错狗头打烂MpuXhk"}, 
+      {name: '自己', id: "ojEXm5jOcQXmZY6HbgqHQWHrq2u8"},  
     ],
     // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
     CALLBACK_USERS: [
-      {name: '自己',id: "5hxOO6VskYv你懂的,填错狗头打烂-ywIZVRMpuXhk"}, 
+      {name: '自己',id: "ojEXm5jOcQXmZY6HbgqHQWHrq2u8"}, 
     ],
      
     /**
@@ -43,7 +40,7 @@ export const config = {
     // 所在省份
     PROVINCE: "广东",
     // 所在城市
-    CITY: "惠州",
+    CITY: "深圳",
 
     /** 重要节日相关 */
 
